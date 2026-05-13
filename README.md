@@ -50,8 +50,8 @@ Getting started is super easy! Just follow these steps:
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/matepca55/Open-WebUI
+cd Open-WebUI
 ```
 
 ### 2️⃣ Launch Open WebUI
