@@ -163,10 +163,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
+### Made with 💜 and 🎶 
 
-**Made with ❤️ and AI**
+**If this project helped you, consider giving it a ⭐!**
 
-⭐ If you find this useful, consider giving it a star!
-
-</div>
+---
